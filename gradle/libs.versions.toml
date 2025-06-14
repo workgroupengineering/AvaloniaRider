@@ -1,8 +1,8 @@
 [versions]
-kotlin = "2.1.10"
-rdGen = "2025.1.1"
-riderSdk = "2025.1-EAP7-SNAPSHOT"
-riderSdkPreview = "2025.1-EAP7-SNAPSHOT"
+kotlin = "2.1.20"
+rdGen = "2025.2.1"
+riderSdk = "2025.2-EAP4-SNAPSHOT"
+riderSdkPreview = "2025.2-EAP4-SNAPSHOT"
 
 [libraries]
 bson4Jackson = "de.undercouch:bson4jackson:2.15.1"
